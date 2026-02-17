@@ -1,6 +1,6 @@
 # Graph Explorer
 
-Graph Explorer provides a React-based web application that enables users to
+Graph Explorer provides a React-based web application that enables users to a
 visualize both property graph and RDF data and explore connections between data
 without having to write graph queries. You can connect to a graph database over
 HTTP that supports the
